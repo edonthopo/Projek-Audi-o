@@ -1,0 +1,8 @@
+{
+  "name": "Abadi Indah Voice Studio",
+  "description": "Studio sulih suara perempuan elegan untuk narasi profil perusahaan pengecoran logam Abadi Indah menggunakan Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
